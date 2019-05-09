@@ -1,0 +1,11 @@
+What happens when you initialize a repository?
+	
+	A .git file is created and all the files in the folder becomes part of my repository.
+
+Why do you need to do it?
+
+	I need a repository to commit my changes for VC.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area contains only the files that you want to commit, the repository is all your files in the working directory.
